@@ -7,3 +7,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = git@github.com:tmux-plugins/tpm.git
+[submodule "plugins/tmux-themepack"]
+	path = plugins/tmux-themepack
+	url = git@github.com:jimeh/tmux-themepack.git
